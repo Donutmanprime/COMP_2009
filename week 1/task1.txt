@@ -1,0 +1,26 @@
+Template is a feature in C++ that helps create generic functions and classes.
+It enables writing of code that works with different data types without specifying them.
+
+
+'Type' is a placeholder for a data type in the template. It represents a generic type 
+that will be substituted with the actual data type when the template is instantiated.
+
+
+The program will find the maximum and minimum values in the given arrays (intList and strList).
+It will then print the maximum and minimum values for each array.
+
+1.2
+
+grid is a pointer to a pointer to an integer
+
+
+It is a destructor. It cleans up resources such as deallocating memory.
+
+
+It is a copy constructor. A copy constructor is a special member function in a class that is used 
+to create a new object as a copy of an existing object of the same class. Its purpose is to perform
+a member-wise copy of the data members from the source object to the newly created object.
+
+
+
+need to find why use
